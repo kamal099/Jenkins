@@ -1,8 +1,9 @@
+import org.testng.annotations.Test;
 
-public class FirstFile {
+public class FirstFileTest {
 
-	public static void main(String[] args) {
-
+	@Test
+	public void mytest() {
 		int i;
 		for(i=0;i<=10;i++) {
 			
@@ -10,5 +11,4 @@ public class FirstFile {
 		}
 		
 	}
-
 }

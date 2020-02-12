@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FirstFileTest" duration-ms="65" started-at="2020-02-12T11:38:40 EST" finished-at="2020-02-12T11:38:40 EST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="65" started-at="2020-02-12T11:38:40 EST" finished-at="2020-02-12T11:38:40 EST">
+      <class name="FirstFileTest">
+        <test-method status="PASS" signature="mytest()[pri:0, instance:FirstFileTest@2f686d1f]" name="mytest" duration-ms="7" started-at="2020-02-12T11:38:40 EST" finished-at="2020-02-12T11:38:40 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mytest -->
+      </class> <!-- FirstFileTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- FirstFileTest -->
+</testng-results>
